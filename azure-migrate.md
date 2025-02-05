@@ -7,6 +7,7 @@ Este repositório documenta a arquitetura de referência do Azure Migrate utiliz
 O Azure Migrate fornece um conjunto de ferramentas para avaliação e migração de workloads on-premises para o Azure, permitindo uma transição segura e eficiente.
 
 🛠️ Componentes Principais
+
 Azure Migrate: Discovery and Assessment: Avaliação de workloads on-premises para estimar compatibilidade, custo e dependências.
 
 Azure Migrate: Server Migration: Realiza a migração de máquinas virtuais (VMware, Hyper-V e físicas) para o Azure.
