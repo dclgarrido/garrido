@@ -1,4 +1,4 @@
-# Arquitetura do AVD  
+![image](https://github.com/user-attachments/assets/3ef1ad1d-9be7-4808-b9c5-77388a692678)# Arquitetura do AVD  
 
 ## 🔹 Visão Geral  
 Este repositório documenta a arquitetura do Azure Virtual Desktop (AVD) de referência utilizada para garantir escalabilidade e segurança.  
