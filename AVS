@@ -1,0 +1,8 @@
+# Arquitetura de Referência - Azure VMware Solution
+
+Este repositório contém a arquitetura de referência do **Azure VMware Solution (AVS)**, garantindo escalabilidade e segurança.
+
+## 📌 Visão Geral
+O AVS permite executar cargas de trabalho VMware no Azure com alta disponibilidade e integração nativa.
+
+## 📌 Diagrama da Arquitetura  
