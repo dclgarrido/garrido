@@ -15,4 +15,5 @@ Azure Migrate: Server Migration: Realiza a migração de máquinas virtuais (VMw
 Replication Appliance: Facilita a replicação de workloads durante o processo de migração.
 
 📏 Diagrama da Arquitetura
-![Arquitetura_AzureMigrate drawio](https://github.com/user-attachments/assets/aa186216-62f8-4368-9274-2811c475e88b)
+![Arquitetura_AzureMigrate drawio](https://github.com/user-attachments/assets/d36c779a-ce5a-4548-a7c9-2cb17936e59d)
+
